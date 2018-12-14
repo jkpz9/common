@@ -1,0 +1,5 @@
+enum PointType
+{
+    Lat,
+    Lon
+}
